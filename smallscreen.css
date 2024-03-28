@@ -8,7 +8,7 @@ body{margin:0;font-family: serif;}
     -webkit-backdrop-filter: blur( 11px );
     border-radius: 10px;
     border: 3px solid rgba(226, 226, 226, 0.279);
-display:flex:
+display:flex;
 }
 .nav-link{;border:1px solid rgb(43, 43, 43);border-radius:2em; height:4em;width:3em;text-align: center;margin-left:2em; 0.5em;margin-left:15vw;overflow:hidden;}
 .nav-link img{width:4em;padding:0.5em;
@@ -16,7 +16,7 @@ display:flex:
     backdrop-filter: blur( 11px );
     -webkit-backdrop-filter: blur( 11px );}
 .content{width:100vw;background-color: rgb(36, 36, 36);}
-.space{border:0px solid rgb(255, 255, 255);height:10vh;font-size: 2em;space:100%;}
+.space{border:0px solid rgb(255, 255, 255);height:4vh;font-size: 2em;}
 .content1{padding-left:3em;border:opx solid rgb(255, 101, 101);height:90vh; color:white;font-size:2em; text-align: left;display:block;}
 .profile{border:2px solid rgba(127, 255, 212, 0.703);border-radius:50%;}
 .ls{padding:2em;width:100%:}
